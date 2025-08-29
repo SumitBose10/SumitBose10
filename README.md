@@ -1,18 +1,36 @@
-#java projects
-import java.util.*;
- public class Conditions {
-    public static void main(String[] args) {
-       Scanner sc = new Scanner(System.in);
-       int x = sc.nextInt();
-       if (x%2==0){
-            System.out.println("even");
-       }
-       else{
-           System.out.println("odd");
-       }
-    }
-}
-<!---
-SumitBose10/SumitBose10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Sumit Bose  
+
+🎓 BCA Student | 💻 Aspiring Full Stack Developer | ☁️ Interested in Cloud & Backend Development  
+
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Java, Spring Boot, and Web Development**  
+- 💡 Passionate about **building projects and solving real-world problems**  
+- 📚 Exploring **Full Stack Development & API integration**  
+- ✨ Love experimenting with **React, Tailwind, and Java backend projects**  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Java, JavaScript, C  
+- **Web:** HTML, CSS, React.js  
+- **Backend:** Java (Spring Boot), APIs  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- 🎵 **Music Player Web App** – A responsive UI with React & Tailwind  
+- 🌦 **Weather App** – Fetching live weather data using API in Java  
+- 📚 **Library Management System** – Built in Java for academic use  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: [sumitbose260@gmail.com](mailto:sumitbose260@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sumitbose10](https://linkedin.com/in/sumitbose10)  
+- 🌐 Portfolio: [*SumitBose|Portfolio*](https://vermillion-torrone-6efe0e.netlify.app/)  
+
+---
+⭐️ From [SumitBose10](https://github.com/SumitBose10)
