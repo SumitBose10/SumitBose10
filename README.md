@@ -15,7 +15,8 @@
 ## 🛠 Tech Stack
 - **Languages:** Java, JavaScript, C  
 - **Web:** HTML, CSS, React.js  
-- **Backend:** Java (Spring Boot), APIs  
+- **Backend:** NodeJs,ExpressJs,APIs  
+- **Database:** MySQL,MongoDB
 - **Tools:** Git, GitHub, VS Code  
 
 ---
