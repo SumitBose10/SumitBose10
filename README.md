@@ -31,7 +31,7 @@
 ## 📫 Connect with Me
 - 📧 Email: [sumitbose260@gmail.com](mailto:sumitbose260@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sumitbose10](https://linkedin.com/in/sumitbose10)  
-- 🌐 Portfolio: [*SumitBose|Portfolio*](https://vermillion-torrone-6efe0e.netlify.app/)  
+- 🌐 Portfolio: [*SumitBose|Portfolio*](https://glittering-taiyaki-80bedb.netlify.app/ )  
 
 ---
 ⭐️ From [SumitBose10](https://github.com/SumitBose10)
