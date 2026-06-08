@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Bose  
 
-🎓 BCA Student | 💻 Aspiring Full Stack Developer | ☁️ Interested in Cloud & Backend Development  
+🎓 BCA Student | 💻 Aspiring Full Stack Developer | 📱 Interested in React Native development  
 
 ---
 
@@ -14,7 +14,8 @@
 
 ## 🛠 Tech Stack
 - **Languages:** Java, JavaScript, C  
-- **Web:** HTML, CSS, React.js  
+- **Web:** HTML, CSS, React.js
+- **application technologies:** React Native  
 - **Backend:** NodeJs,ExpressJs,APIs  
 - **Database:** MySQL,MongoDB
 - **Tools:** Git, GitHub, VS Code  
@@ -24,7 +25,8 @@
 ## 📌 Projects
 - 🎵 **Music Player Web App** – A responsive UI with React & Tailwind  
 - 🌦 **Weather App** – Fetching live weather data using API in Java  
-- 📚 **Library Management System** – Built in Java for academic use  
+- 📚 **Library Management System** – Built in Java for academic use
+- ✈️ **TourEase**– Built a cross-platform travel booking and tour management application using React Native with tour listings, bookings, maps, and user authentication. 
 
 ---
 
